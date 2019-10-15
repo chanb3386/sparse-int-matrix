@@ -1,0 +1,4 @@
+Files created by me: MatrixEntry, MatrixEntryTest, SparseIntMatrix
+
+SparseIntMatrix reads from a file (the data, noise files) and is composed of MatrixEntries, which have a row, col and data
+In addition, SparseIntMatrix has methods to place an element in a row and column described in a text file, and uses linked lists to enter and remove elements as needed
